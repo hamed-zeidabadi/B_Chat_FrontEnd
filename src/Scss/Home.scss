@@ -1,0 +1,83 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../Assets/images/gradient.jpg") center/cover;
+}
+// Home
+.home {
+  height: 80vh;
+  width: 80vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// SideBar
+.sidebar {
+  width: 100%;
+  height: 500px;
+
+  display: flex;
+  flex-direction: column;
+  background-color: #aa96da;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  &_input {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &_item {
+      width: 80%;
+      background-color: rgba($color: #ffffff, $alpha: 0.8);
+      color: black;
+    }
+  }
+  &_user {
+    width: 100%;
+    margin: 2px 0px;
+
+    &_item {
+      position: relative;
+      margin: 1px 0;
+
+      &_img {
+        width: 70px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        border: 1px solid black;
+        margin-right: 5px;
+      }
+
+      &_name {
+        position: absolute;
+        top: 10px;
+        right: 100px;
+        font-weight: bold;
+      }
+      &_msg {
+        position: absolute;
+        top: 40px;
+        right: 100px;
+        font-size: 0.8em;
+      }
+      &_badge {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        position: absolute;
+        top: 5px;
+        right: 50px;
+        margin-right: 5px;
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: IRANSans;
+  src: url(../Assets//Font/IRANSans.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "IRANSans" !important ;
+  direction: rtl;
+}
+*:focus {
+  outline: none;
+}
+
+// import Scss Module
+@import "./Login.scss";
+@import "./Home.scss";
+@import "./ChatBox.scss";
