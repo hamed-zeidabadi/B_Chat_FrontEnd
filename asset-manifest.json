@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Bchat/static/css/main.edf6dd07.chunk.css",
+    "main.js": "/Bchat/static/js/main.d19230af.chunk.js",
+    "main.js.map": "/Bchat/static/js/main.d19230af.chunk.js.map",
+    "runtime-main.js": "/Bchat/static/js/runtime-main.d2dbcca7.js",
+    "runtime-main.js.map": "/Bchat/static/js/runtime-main.d2dbcca7.js.map",
+    "static/js/2.3ff2c5e5.chunk.js": "/Bchat/static/js/2.3ff2c5e5.chunk.js",
+    "static/js/2.3ff2c5e5.chunk.js.map": "/Bchat/static/js/2.3ff2c5e5.chunk.js.map",
+    "index.html": "/Bchat/index.html",
+    "precache-manifest.b2dd0bbff103e0cc25c58edd43d7d92c.js": "/Bchat/precache-manifest.b2dd0bbff103e0cc25c58edd43d7d92c.js",
+    "service-worker.js": "/Bchat/service-worker.js",
+    "static/css/main.edf6dd07.chunk.css.map": "/Bchat/static/css/main.edf6dd07.chunk.css.map",
+    "static/js/2.3ff2c5e5.chunk.js.LICENSE.txt": "/Bchat/static/js/2.3ff2c5e5.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Bchat/static/media/gradient.7b92f7a4.jpg",
+    "static/media/avatar1.png": "/Bchat/static/media/avatar1.c75cdfec.png",
+    "static/media/avatar2.png": "/Bchat/static/media/avatar2.82ab1f01.png",
+    "static/media/avatar3.png": "/Bchat/static/media/avatar3.82ab1f01.png",
+    "static/media/avatar4.png": "/Bchat/static/media/avatar4.c91f937b.png",
+    "static/media/avatar5.png": "/Bchat/static/media/avatar5.c7771f76.png",
+    "static/media/avatar6.png": "/Bchat/static/media/avatar6.de78abc4.png",
+    "static/media/avatar7.png": "/Bchat/static/media/avatar7.994adf5e.png",
+    "static/media/avatar8.png": "/Bchat/static/media/avatar8.d899af10.png",
+    "static/media/logo.png": "/Bchat/static/media/logo.4886dbd3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2dbcca7.js",
+    "static/js/2.3ff2c5e5.chunk.js",
+    "static/css/main.edf6dd07.chunk.css",
+    "static/js/main.d19230af.chunk.js"
+  ]
+}
